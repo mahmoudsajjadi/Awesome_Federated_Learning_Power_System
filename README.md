@@ -12,7 +12,7 @@ Feel free to contribute by adding papers, studies, or any relevant content that 
   - **Published in:** 2023 IEEE Power & Energy Society General Meeting (PESGM)
   - **Publisher:** IEEE
   - **Year:** 2023
-  - **[Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tkhCR5IAAAAJ&citation_for_view=tkhCR5IAAAAJ:2osOgNQ5qMEC)**
+  - **[Link to Paper]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tkhCR5IAAAAJ&citation_for_view=tkhCR5IAAAAJ:2osOgNQ5qMEC)](https://ieeexplore.ieee.org/abstract/document/10252920)**
 
 
 
